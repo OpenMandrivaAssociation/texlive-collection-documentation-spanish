@@ -7,7 +7,7 @@
 Name:		texlive-collection-documentation-spanish
 Epoch:		1
 Version:	20120224
-Release:	1
+Release:	2
 Summary:	Spanish documentation
 Group:		Publishing
 URL:		http://tug.org/texlive
